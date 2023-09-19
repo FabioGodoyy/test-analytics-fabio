@@ -36,6 +36,7 @@ export default function RootLayout({
             gtag('config', '${TRACKING_ID}');
           `}
         </Script>
+        <meta name="google-site-verification" content="hVukCbXKHPDfOGcmihJ7C63X_Q6JzVAMrnG8jI4RAR8" />
       </head>
 
       <body className={inter.className}>{children}</body>
