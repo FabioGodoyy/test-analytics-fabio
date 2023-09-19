@@ -6,7 +6,7 @@ export default function Home() {
     <>
     <Head>
 				<title>My website</title>
-        <meta name="google-site-verification" content="hVukCbXKHPDfOGcmihJ7C63X_Q6JzVAMrnG8jI4RAR8" />
+        <meta name="google-site-verification" content="R-S6B6lhsaI2qjOq6TxTMt-EVOGXYaL_i8EZLE7W1gA" />
 			</Head>
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <h1>Analytics</h1>
